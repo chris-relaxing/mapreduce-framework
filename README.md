@@ -1,6 +1,6 @@
 # mapreduce-framework
 
-This is a Python MapReduce Framwork that works on Hadoop (HDFS) and validates a large "big data" XML dataset. It is written for a specific product schema, but the underlying framework can be adpated to any XML schema. This framework works best with the paramiko-scp MapReduce automation script that I wrote:
+This is a Python MapReduce Framwork that works on Hadoop (HDFS) and validates a large "big data" XML dataset. It is written for a specific product schema, but the underlying framework can be adpated to any XML schema. This framework works best with the paramiko-scp MapReduce automation script that I wrote:<br>
 https://github.com/chris-relaxing/paramiko-scp<br><br>
 
 
