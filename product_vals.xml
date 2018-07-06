@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductValidationList>
+	<Product name="default">
+		<Include>Stats_0001</Include>
+		<Include>Stats_0002</Include>
+		<Include>Stats_0003</Include>
+		<Include>Stats_0004</Include>
+		<Include>Stats_0005</Include>
+		<Include>Media_0002</Include>
+		<Include>Basic_0004</Include>
+		<Include>Basic_0005</Include>
+		<Include>Basic_0015</Include>
+		<Include>Basic_0020</Include>
+		<Include>Basic_0022</Include>
+		<Include>Basic_0030</Include>
+		<Include>Basic_0031</Include>
+		<Include>Basic_0032</Include>
+		<Include>Basic_0033</Include>
+		<Include>Basic_0034</Include>
+		<Include>Basic_0035</Include>
+		<Include>Basic_0036</Include>
+		<Include>Basic_0037</Include>
+		<Include>Basic_0040</Include>
+		<Include>Basic_0041</Include>
+		<Include>Basic_0045</Include>
+		<Include>Basic_0046</Include>
+		<Include>Basic_0048</Include>
+		<Include>Basic_0057</Include>
+		<Include>Basic_0087</Include>
+		<Include>Basic_0101</Include>
+		<Include>Basic_0104</Include>
+		<Include>Basic_0116</Include>
+		<Include>Basic_0117</Include>
+		<Include>Basic_0135</Include>
+		<Include>Basic_0144</Include>
+		<Include>Basic_0145</Include>
+		<Include>Basic_0147</Include>		
+		<Exclude></Exclude>
+	</Product>
+	<Product name="EWP">
+		<Include>Basic_0001</Include>
+		<Include>Basic_0002</Include>
+		<Include>Basic_0003</Include>
+		<Include>Basic_0004</Include>
+		<Include>Basic_0005</Include>
+		<Include>Basic_0006a</Include>
+		<Include>Basic_0015</Include>
+		<Include>Basic_0020</Include>
+		<Include>Media_0002</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0006">
+		<Include>Basic_0006a</Include>
+		<Exclude>Basic_0006b</Exclude>
+	</Product>
+	<Product name="KVP">
+		<Include>KVP_0001a</Include>
+		<Include>KVP_0001b</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="ContactStrings">
+		<Include>New_0001</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0004">
+		<Include>New_0004</Include>
+		<Include>New_0005</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0002">
+		<Include>New_0002</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0006">
+		<Include>New_0006</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0007">
+		<Include>New_0007</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0008">
+		<Include>New_0008</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0009">
+		<Include>New_0009</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0010">
+		<Include>New_0010</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0011">
+		<Include>New_0011</Include>
+		<Include>New_0012</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0012">
+		<Include>New_0012</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0013">
+		<Include>New_0013</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0014">
+		<Include>New_0014</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0015">
+		<Include>New_0015</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0016">
+		<Include>New_0016</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0017">
+		<Include>New_0017</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0018">
+		<Include>New_0018</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0019">
+		<Include>New_0019</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0020">
+		<Include>New_0020</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0021">
+		<Include>New_0021</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="New_0022">
+		<Include>New_0022</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="TQS_0001">
+		<Include>TQS_0001</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="TQS_0002">
+		<Include>TQS_0002</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="TQS_0003">
+		<Include>TQS_0003</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="TQS_0004">
+		<Include>TQS_0004</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="TQS_0005">
+		<Include>TQS_0005</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="TQS_0006">
+		<Include>TQS_0006</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="TQS_0007">
+		<Include>TQS_0007</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="TQS_0008">
+		<Include>TQS_0008</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="TQS_0009">
+		<Include>TQS_0009</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="TQS_0010">
+		<Include>TQS_0010</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="TQS_0011">
+		<Include>TQS_0011</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="TQS_0012">
+		<Include>TQS_0012</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="GEO_0005">
+		<Include>GEO_0005</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Stats_0001">
+		<Include>Stats_0001</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0015">
+		<Include>Basic_0015</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0020">
+		<Include>Basic_0020</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_char">
+		<Include>Basic_0030</Include>
+		<Include>Basic_0031</Include>
+		<Include>Basic_0032</Include>
+		<Include>Basic_0033</Include>
+		<Include>Basic_0034</Include>
+		<Include>Basic_0035</Include>
+		<Include>Basic_0036</Include>
+		<Include>Basic_0037</Include>
+		<Include>Basic_0022</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="GEO_0001">
+		<Include>GEO_0001</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="GEO_0002">
+		<Include>GEO_0002</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="GEO_0003">
+		<Include>GEO_0003</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="GEO_0004">
+		<Include>GEO_0004</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0017a">
+		<Include>Basic_0017a</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0022">
+		<Include>Basic_0022</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0029">
+		<Include>Basic_0029</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0030">
+		<Include>Basic_0030</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0032">
+		<Include>Basic_0032</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0034">
+		<Include>Basic_0034</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0040">
+		<Include>Basic_0040</Include>
+		<Include>Basic_0041</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0045">
+		<Include>Basic_0045</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0046">
+		<Include>Basic_0046</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0048">
+		<Include>Basic_0048</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0057">
+		<Include>Basic_0057</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0087">
+		<Include>Basic_0087</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0101">
+		<Include>Basic_0101</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0104">
+		<Include>Basic_0104</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0116">
+		<Include>Basic_0116</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0117">
+		<Include>Basic_0117</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0135">
+		<Include>Basic_0135</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0144">
+		<Include>Basic_0144</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0145">
+		<Include>Basic_0145</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_0147">
+		<Include>Basic_0147</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="punctuation_test">
+		<Include>Basic_0022</Include>
+		<Include>Basic_0040</Include>
+		<Include>Basic_0101</Include>
+		<Include>Basic_0116</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Basic_new">
+		<Include>Basic_0005</Include>
+		<Include>Basic_0006</Include>
+		<Include>Basic_0015</Include>
+		<Include>Basic_0020</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="TestProduct">
+		<Include>Basic_0008a</Include>
+		<Include>Basic_0008b</Include>
+		<Include>Basic_0008c</Include>
+		<Include>Basic_0008d</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="test">
+		<Include>Stats_0001</Include>
+		<Include>Stats_0002</Include>
+		<Include>Stats_0003</Include>
+		<Include>Stats_0004</Include>
+		<Include>Stats_0005</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="test1">
+		<Include>Stats_0001</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="dvn_check">
+		<Include>DVN_0001</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Media_0002_test">
+		<Include>Media_0002</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Test_0001">
+		<Include>Test_0001</Include>
+		<Exclude></Exclude>
+	</Product>
+	<Product name="Test_0002">
+		<Include>Test_0002</Include>
+		<Exclude></Exclude>
+	</Product>
+</ProductValidationList>
